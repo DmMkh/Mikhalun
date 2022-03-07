@@ -6,4 +6,4 @@ ssh-keygen -t ed25519 -C "email@gmail.com"
 ->settings->deploy keys->add deploy key
 Копировать ключ в поле key, указав имя в поле title ##Как склонировать репозиторий##
 Пройти аутентификацию
-прописать команду git clone git@github.com:DmMkh/Mikhalun.git.
+прописать команду git clone git@github.com:DmMkh/Mikhalun.git
